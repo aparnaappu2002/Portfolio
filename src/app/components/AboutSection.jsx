@@ -51,7 +51,7 @@ const AboutSection = () => {
           <p className="text-base lg:text-lg text-justify">
            I&apos;m a passionate MERN Stack Developer with a strong focus on building scalable, user-friendly web applications. Skilled in developing full-stack solutions using MongoDB, Express.js, React.js, and Node.js, I enjoy creating responsive UIs and robust backend services that solve real-world problems.
 </p> <br />
-<p className="text-base lg:text-lg text-justify">I have successfully built Lush Aura, a feature-rich eCommerce platform with product listings, user authentication, cart functionality, and payment integration. Currently, I'm working on Planzo, an event management web application that helps users seamlessly plan and manage events through an intuitive, organized interface.</p> <br />
+<p className="text-base lg:text-lg text-justify">I have successfully built Lush Aura, a feature-rich eCommerce platform with product listings, user authentication, cart functionality, and payment integration. Currently, I&apos;m working on Planzo, an event management web application that helps users seamlessly plan and manage events through an intuitive, organized interface.</p> <br />
 
 <p className="text-base lg:text-lg text-justify">I thrive in collaborative environments, love clean and maintainable code, and continuously seek to grow my skills in full-stack and cloud-based development.</p>
           
