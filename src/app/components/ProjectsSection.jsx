@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "LUSH AURA",
-    description: "Lush Aura is a full-stack eCommerce web application built with the MERN stack, featuring Google authentication, product management, cart functionality, and Stripe-powered checkout.",
+    description: `Lush Aura is a full-stack eCommerce web application built with the MERN stack, featuring Google authentication, product management, cart functionality, and Stripe-powered checkout.`,
     image: "/images/projects/lushaura.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/aparnaappu2002/LUSH-AURA",
@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "Student Management",
-    description: "A Student Management Project using TypeScript, Redux, and repository architecture offers efficient state handling and scalable, maintainable code for managing student data.",
+    description: `A Student Management Project using TypeScript, Redux, and repository architecture offers efficient state handling and scalable, maintainable code for managing student data.`,
     image: "/images/projects/studentmanagement.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/aparnaappu2002/StudentManagement-Typescript",
@@ -26,7 +26,7 @@ const projectsData = [
   {
     id: 3,
     title: "OLX Clone",
-    description: "OLX Clone is a responsive marketplace web app built with React, Node.js, Express, MongoDB, and Firebase authentication, enabling users to post and sell the products.",
+    description: `OLX Clone is a responsive marketplace web app built with React, Node.js, Express, MongoDB, and Firebase authentication, enabling users to post and sell the products.`,
     image: "/images/projects/olx.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/aparnaappu2002/Olx-Clone-using-React",
